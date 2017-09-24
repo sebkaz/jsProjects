@@ -1,0 +1,36 @@
+.tasks{ }
+#tasksList{
+	list-style: none;
+	width:450px;
+	margin: 0 auto;
+}
+.new-task {
+	width: 450px;
+	height: 100px;
+	padding: 5px;
+	margin: 20px 0;
+	border: 1px solid #000;
+	border-radius:5px;
+	box-shadow: 5px 5px 2px  grey; 
+	font-size: 15px;
+	font-family: Verdana, Arial, Sans-Serif;
+}
+.form-group{
+	width:500px;
+	margin:0 auto;
+	margin-bottom: 20px;
+}
+.submit{
+	width:70px;
+	margin:30px auto;
+}
+.task-buttons{
+	width: 60px;
+	margin: 0 auto;
+}
+div div.task-text{
+	margin: 10px auto;
+	text-align: center;
+
+}
+i{display:block;}
